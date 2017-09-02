@@ -1,2 +1,7 @@
-##DevOps hi
+
+##DevOps 
 Git, Maven, Jenkins, Chef, Docker
+
+##AWS
+EC2, S3, RDS
+
