@@ -1,6 +1,9 @@
 ##DevOps:
 Git, Maven, Jenkins, Ansible, Chef, Docker.
 
-##AWS
+##AWS:
 EC2, S3, RDS
+
+##AZURE:
+.......
 
