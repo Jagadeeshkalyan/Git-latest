@@ -2,6 +2,8 @@
 Git, Maven, Jenkins, Ansible, Chef, Docker.
 added puppet
 Nagios
+sonar cube
+
 
 ##AWS:
 EC2, S3, RDS
