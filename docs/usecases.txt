@@ -6,6 +6,7 @@ Nagios
 ##AWS:
 EC2, S3, RDS
 ELK Stack
+Artifactory
 
 ##RPA:
 Automation
