@@ -10,5 +10,6 @@ Automation
 
 ##AZURE:
 windows cloud
+Microsoft
 
 
