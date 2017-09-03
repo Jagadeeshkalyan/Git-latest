@@ -1,14 +1,19 @@
 ##DevOps:
 Git, Maven, Jenkins, Ansible, Chef, Docker.
 added puppet
+Nagios
 
 ##AWS:
 EC2, S3, RDS
+ELK Stack
 
 ##RPA:
 Automation
 
 ##AZURE:
 windows cloud
+
+
+
 
 
